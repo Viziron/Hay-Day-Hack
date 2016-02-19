@@ -9,6 +9,9 @@ Hay Day Hack Tool v1.0 is a Windows application, written in C++ and it is used t
 ### Features:
 
 * Seamlessly generate unlimited resources in your Hay Day account
-* Support all platforms' version of Hay Day
+* Support all platforms
 * Very easy to use and 100% safe
 
+### About Hay Day:
+
+Hay Day is a mobile farming game developed and published by Supercell. Hay Day was released for IOS on June 21, 2012 and Android on November 20, 2013. According to a 2013 report, Supercell earned more than $30 million a month from Hay Day and Clash of Clans, another game made by Supercell. In 2013, Hay Day was the 4th highest game in revenue generated.
