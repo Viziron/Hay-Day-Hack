@@ -5,7 +5,7 @@ Hay Day Hack Tool v1.0 is a Windows application, written in C++ and it is used t
 
 ## Alternatively,
 
-# [Check the Web Version of this hack tool](http://hayday.igiveaways.xyz/)
+# [Check the Web Version](http://hayday.igiveaways.xyz/)
 
 ### Features:
 
